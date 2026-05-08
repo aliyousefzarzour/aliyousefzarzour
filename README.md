@@ -5,10 +5,10 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=plastic" alt="views"/> 
+	<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=plastic" alt="views"/> 
 </p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Ali يوسف
+## <picture><img src="https://github.com/omarsalem33/omarsalem33/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
 <picture>
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
@@ -16,34 +16,36 @@
 
 <br><br>
 
-- 🎓 طالب ومطور ويب  
-- 💻 Web Developer (Front-End & Back-End)  
-- 🧠 أفهم في `OOP`, `Database`, `Data Structure`
-- 🌐 بتعلم تطوير الويب بشكل مستمر  
-- 🚀 بحب أبني مشاريع وأطور نفسي كل يوم  
-- 📚 حاليًا بتعلم Software Engineering & Problem Solving  
-- ⚡ هدفي أبقى Full Stack Developer محترف  
+- 🎓 I am a Web Development Student.
+- 💻 Passionate about Front-End & Back-End Development.
+- 🧠 Skilled in `OOP`, `Database`, and `Data Structures`.
+- 🌐 Currently learning modern Web Technologies.
+- 🚀 I enjoy building projects and improving my skills every day.
+- 📚 Learning `Software Engineering` and `Problem Solving`.
+- ⚡ My goal is to become a Professional Full Stack Developer.
 
 <br><br>
+
+---
 
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/20YOURNUMBER">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
@@ -52,69 +54,51 @@
 
 # 🛠️ Skills
 
-## 💻 Programming Languages
+## <picture><img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="35"></picture> Programming Languages
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp" />
 
 </p>
 
 ---
 
-## ⚙️ Front-End Development
+## <picture><img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="35"></picture> Front-End Development
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma" />
 
 </p>
 
 ---
 
-## 🔥 Back-End Development
+## <picture><img src="https://cdn-icons-png.flaticon.com/512/2721/2721279.png" width="35"></picture> Back-End Development
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 
 </p>
 
 ---
 
-## 🗄️ Database
+## <picture><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="35"></picture> Database
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 
 </p>
 
 ---
 
-## 🧰 Tools & Technologies
+## <picture><img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="35"></picture> Tools & Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </p>
 
@@ -123,34 +107,26 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=15"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=15"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=15"/>
 </p>
 
 ---
 
 # 🚀 Current Goals
 
-- 📌 Become a Professional Full Stack Developer
-- 📌 Build Real Projects
-- 📌 Improve Problem Solving Skills
-- 📌 Learn Advanced Backend Development
-- 📌 Participate in Tech Competitions & Events
+- 📌 Become a Professional Full Stack Developer.
+- 📌 Build Real World Projects.
+- 📌 Improve Problem Solving Skills.
+- 📌 Learn Advanced Back-End Development.
+- 📌 Participate in Tech Competitions & Events.
 
 ---
 
