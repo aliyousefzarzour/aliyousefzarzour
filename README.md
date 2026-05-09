@@ -5,7 +5,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=plastic" alt="views"/> 
+	<img src="https://komarev.com/ghpvc/?username=aliyousefzarzour&label=Profile%20Views&color=0e75b6&style=plastic" alt="views"/> 
 </p>
 
 ## <picture><img src="https://github.com/omarsalem33/omarsalem33/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
